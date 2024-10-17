@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    width: 80px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: white;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://png.pngtree.com/background/20231003/original/pngtree-number-game-computation-integer-code-photo-picture-image_5333349.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-list {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+    margin-left: 10px;
+}
+
+.stt-section {
+    background-color: #f9fbfe;
+}
+
+.bg-container1 {
+    background-color: #dac0ff;
+    background-size: cover;
+    height: 200vh;
+}
+
+.main-heading {
+    color: #690cb0;
+    font-family: "Roboto";
+    font-size: 60px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.main-para {
+    color: #3e4c59;
+    font-family: "Roboto";
+    padding: 10px;
+    font-size: 20px;
+}
+
+.clock-image {
+    height: 100px;
+    width: 80px;
+}
+
+.seconds {
+    color: #3e4c59;
+    font-family: "Roboto";
+    padding-top: 50px;
+    padding-left: 50px;
+    font-size: 30px;
+}
+
+.numbers-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 50px;
+    padding-top: 35px;
+}
+
+.inner-card {
+    border-radius: 20px;
+    background-color: #f3eaff;
+    height: 95vh;
+    margin: 20px;
+    padding: 10px;
+}
+
+.inner-card-one {
+    background-color: white;
+    margin: 10px;
+    height: 40vh;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.inner-para {
+    color: #3e4c59;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.submit-btn {
+    background-color: #690cb0;
+    color: white;
+    border-radius: 5px;
+}
+
+.reset.btn {
+    background-color: #ffffff;
+    color: black;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.number-fact-section {
+    background-color: white;
+}
+
+.bg-container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/numbers-fact-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading {
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.user-input {
+    width: 320px;
+}
+
+.spinner {
+    color: #ffffff;
+}
+
+.fact-text {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+
+.random-joke-section {
+    background-color: #f9fbfe;
+}
+
+.bg-container3 {
+    background-image: linear-gradient(to right, #49c4ee, #6e87d6);
+    height: 100vh;
+}
+
+.joke-text {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.joke-button {
+    color: #6c8bd8;
+    background-color: #ffffff;
+    font-size: 24px;
+    width: 120px;
+    border-width: 0;
+    border-radius: 4px;
+}
+
+.word-cloud-section {
+    background-image: url("https://wallpapercave.com/wp/wp3264682.jpg");
+
+}
+
+.word-cloud-container {
+    height: 100vh;
+    padding: 20px;
+}
+
+.user-input1 {
+    width: 60%;
+}
+
+.add-button {
+    color: white;
+    background-color: #565b6e;
+    border-width: 0;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.error-msg {
+    color: #f62c3b;
+    font-size: 14px;
+}
+
+.btn-marker-section {
+    background-color: white;
+}
+
+.button-maker-bg-container {
+    background-image: linear-gradient(to right, #09203f, #537895);
+}
+
+.button-maker-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.button-maker-container {
+    border-radius: 10px;
+}
+
+.input-label {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 12px;
+    margin-bottom: 6px;
+}
+
+.user-input {
+    width: 100%;
+    height: 40px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cbd2d9;
+    border-radius: 4px;
+    padding-left: 12px;
+}
+
+.custom-button {
+    font-family: "Roboto";
+}
